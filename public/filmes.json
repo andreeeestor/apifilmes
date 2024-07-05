@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nome": "Parasita",
+    "capa": "https://veja.abril.com.br/wp-content/uploads/2020/02/poster-filme-parasite.jpg?quality=70&strip=info&w=720&crop=1",
+    "genero": "Drama / Suspense",
+    "descricao": "Um filme sul-coreano que explora as disparidades sociais através da história de uma família pobre que se infiltra na vida de uma família rica.",
+    "ano": 2019
+  },
+  {
+    "id": 2,
+    "nome": "1917",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJ3iWjeY291TQYdYTMNrl5nukPRijoqeDqV6NJD6HDGew0YLy",
+    "genero": "Drama / Guerra",
+    "descricao": "Um filme épico que segue dois soldados britânicos durante a Primeira Guerra Mundial, em uma missão para entregar uma mensagem crucial.",
+    "ano": 2019
+  },
+  {
+    "id": 3,
+    "nome": "Coringa",
+    "capa": "https://play-lh.googleusercontent.com/64SMx5o6rrX5HIGVkKt8aJaunQ-owWPlvqRv-MBTs4ZMF5yk3-X-nPj7GmSmuPqiAkg23HgOI8O9mNPgLw=w240-h480-rw",
+    "genero": "Drama / Thriller Psicológico",
+    "descricao": "A história de origem do icônico vilão da DC Comics, mostrando sua jornada de comediante falido a criminoso psicótico em Gotham City.",
+    "ano": 2019
+  },
+  {
+    "id": 4,
+    "nome": "Nomadland",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KpkAILpSAXnRf0mskelqPCt_Wln9I4LBtA&s",
+    "genero": "Drama",
+    "descricao": "Uma mulher se aventura pelo oeste americano após perder tudo na Grande Recessão, vivendo como uma nômade moderna em sua van.",
+    "ano": 2020
+  },
+  {
+    "id": 5,
+    "nome": "Soul",
+    "capa": "https://lumiere-a.akamaihd.net/v1/images/poster_66814911.png",
+    "genero": "Animação / Fantasia",
+    "descricao": "Um músico que perdeu sua paixão pela vida é transportado para fora de seu corpo e deve encontrar o caminho de volta com a ajuda de uma alma infantil aprendiz.",
+    "ano": 2020
+  },
+  {
+    "id": 6,
+    "nome": "Duna",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a3/Dune_2021.jpeg/230px-Dune_2021.jpeg",
+    "genero": "Ficção Científica / Aventura",
+    "descricao": "Uma adaptação épica da obra de Frank Herbert, seguindo o jovem Paul Atreides em uma jornada para proteger o futuro de seu povo no planeta deserto de Arrakis.",
+    "ano": 2021
+  },
+  {
+    "id": 7,
+    "nome": "Drive My Car",
+    "capa": "https://ingresso-a.akamaihd.net/prd/img/movie/drive-my-car/1d6f44b0-09aa-4d9a-b374-a37e27e3d3f1.jpg",
+    "genero": "Drama",
+    "descricao": "Um diretor de teatro lida com a morte de sua esposa enquanto dirige uma peça com uma atriz misteriosa, no Japão contemporâneo.",
+    "ano": 2021
+  },
+  {
+    "id": 8,
+    "nome": "Encanto",
+    "capa": "https://static.wixstatic.com/media/737e63_df2efd8f4778494ba308348f219026de~mv2.jpg/v1/fill/w_677,h_1000,al_c,q_85,usm_0.66_1.00_0.01/737e63_df2efd8f4778494ba308348f219026de~mv2.jpg",
+    "genero": "Animação / Fantasia",
+    "descricao": "Uma jovem colombiana descobre que sua família possui poderes mágicos, exceto ela, e se torna a última esperança de sua comunidade mágica.",
+    "ano": 2021
+  },
+  {
+    "id": 9,
+    "nome": "Duna: Parte 2",
+    "capa": "https://ingresso-a.akamaihd.net/prd/img/movie/duna-parte-2/3971d5d6-702d-40d8-b990-872d4ffe3e32.webp",
+    "genero": "Ficção Científica / Aventura",
+    "descricao": "A continuação da saga épica de Duna, que continua a explorar as intrigas e conflitos pelo controle do precioso recurso chamado Especiaria.",
+    "ano": 2023
+  },
+  {
+    "id": 10,
+    "nome": "The Batman",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-EsInCPNWmC0pr2KsF_UuUVMjG1QB1IYHw&s",
+    "genero": "Ação / Drama",
+    "descricao": "Uma nova abordagem sobre a história de Batman, focada em suas habilidades de detetive e seu embate com os vilões de Gotham City.",
+    "ano": 2022
+  },
+  {
+    "id": 11,
+    "nome": "Blade Runner 2049",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukh25N-yfUxYB0nV10Ez75u2a8RzY0iiheQ&s",
+    "genero": "Ficção Científica / Neo-Noir",
+    "descricao": "Uma sequência do clássico Blade Runner, que segue um novo blade runner em busca de respostas que podem abalar a sociedade futurista.",
+    "ano": 2017
+  },
+  {
+    "id": 12,
+    "nome": "Don't Look Up",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/5/5c/Don%27t_Look_Up_2021_film.jpg",
+    "genero": "Comédia / Drama",
+    "descricao": "Dois astrônomos tentam alertar a humanidade sobre um cometa que se aproxima da Terra, enfrentando negações e interesses políticos.",
+    "ano": 2021
+  },
+  {
+    "id": 13,
+    "nome": "Avatar 2",
+    "capa": "https://br.web.img3.acsta.net/pictures/22/05/09/16/16/3197518.jpg",
+    "genero": "Ficção Científica / Aventura",
+    "descricao": "A continuação do épico de James Cameron, que explora novas regiões de Pandora e continua a saga de Jake Sully.",
+    "ano": 2022
+  },
+  {
+    "id": 14,
+    "nome": "Eternos",
+    "capa": "https://m.media-amazon.com/images/I/61j6NP8m+wL._AC_UF1000,1000_QL80_.jpg",
+    "genero": "Ação / Fantasia",
+    "descricao": "Os Eternos, uma raça de imortais com poderes extraordinários, emergem das sombras para proteger a Terra de ameaças cósmicas.",
+    "ano": 2021
+  },
+  {
+    "id": 15,
+    "nome": "Spider-Man: No Way Home",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/Spider-Man_No_Way_Home_poster.jpg/250px-Spider-Man_No_Way_Home_poster.jpg",
+    "genero": "Ação / Aventura",
+    "descricao": "O Homem-Aranha enfrenta um desafio maior do que nunca, quando realidades paralelas se colidem e vilões de outras dimensões aparecem em sua cidade.",
+    "ano": 2021
+  },
+  {
+    "id": 16,
+    "nome": "Shang-Chi and the Legend of the Ten Rings",
+    "capa": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genero": "Ação / Aventura",
+    "descricao": "Shang-Chi precisa confrontar o passado que ele pensou ter deixado para trás, quando é atraído para a teia da misteriosa organização Dez Anéis.",
+    "ano": 2021
+  },
+  {
+    "id": 17,
+    "nome": "No Time to Die",
+    "capa": "https://play-lh.googleusercontent.com/KHagyirtj9vkyR3blrdw-TFADcSFYh4pBJQHQTz2YbT_vSGwweA4SIh7jZWvHB7jj2W16lOVow-yUer0qTI",
+    "genero": "Ação / Espionagem",
+    "descricao": "James Bond deixou o serviço ativo, mas sua paz é interrompida quando um amigo é sequestrado, levando-o a enfrentar uma nova ameaça.",
+    "ano": 2021
+  },
+  {
+    "id": 18,
+    "nome": "The Matrix Resurrections",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/9/98/The_Matrix_Resurrections.png",
+    "genero": "Ficção Científica / Ação",
+    "descricao": "Neo acorda em uma realidade que não consegue compreender, forçando-o a confrontar escolhas difíceis e um destino desconhecido.",
+    "ano": 2021
+  },
+  {
+    "id": 19,
+    "nome": "Luca",
+    "capa": "https://lumiere-a.akamaihd.net/v1/images/image_2ff75a5c.jpeg?region=0,0,540,810",
+    "genero": "Animação / Aventura",
+    "descricao": "Um jovem garoto se aventura em um verão inesquecível na Riviera Italiana, compartilhando experiências com um novo amigo que esconde um segredo.",
+    "ano": 2021
+  },
+  {
+    "id": 20,
+    "nome": "Minari",
+    "capa": "https://br.web.img3.acsta.net/pictures/21/10/01/19/02/4063921.jpg",
+    "genero": "Drama",
+    "descricao": "Uma família coreana-americana se muda para uma fazenda no Arkansas na década de 1980, buscando realizar seus sonhos de prosperidade.",
+    "ano": 2020
+  },
+  {
+    "id": 21,
+    "nome": "Tenet",
+    "capa": "https://br.web.img3.acsta.net/pictures/20/05/19/20/45/1889845.jpg",
+    "genero": "Ficção Científica / Ação",
+    "descricao": "Um agente é recrutado por uma organização secreta para prevenir o início da Terceira Guerra Mundial, usando a tecnologia de inversão temporal.",
+    "ano": 2020
+  },
+  {
+    "id": 22,
+    "nome": "Godzilla vs. Kong",
+    "capa": "https://musicart.xboxlive.com/7/8c586a00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+    "genero": "Ação / Ficção Científica",
+    "descricao": "Dois monstros lendários, Godzilla e Kong, se enfrentam em uma batalha épica que definirá o destino do mundo.",
+    "ano": 2021
+  },
+  {
+    "id": 23,
+    "nome": "Joker",
+    "capa": "https://exemplo.com/capas/joker.jpg",
+    "genero": "Crime / Drama",
+    "descricao": "A história de Arthur Fleck, um comediante fracassado que se transforma no icônico vilão Joker, em uma jornada de loucura e caos.",
+    "ano": 2019
+  },
+  {
+    "id": 24,
+    "nome": "The French Dispatch",
+    "capa": "https://m.media-amazon.com/images/M/MV5BNmQxZTNiODYtNzBhYy00MzVlLWJlN2UtNTc4YWZjMDIwMmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genero": "Comédia / Drama",
+    "descricao": "Um olhar sobre as histórias publicadas no último número de um jornal americano fictício, ambientado em uma cidade francesa do século XX.",
+    "ano": 2021
+  },
+  {
+    "id": 25,
+    "nome": "Black Panther: Wakanda Forever",
+    "capa": "https://m.media-amazon.com/images/I/81A11A9gmkL._AC_UF894,1000_QL80_.jpg",
+    "genero": "Ação / Aventura",
+    "descricao": "A continuação das aventuras de T'Challa e sua nação avançada de Wakanda, enquanto enfrentam novos desafios e ameaças.",
+    "ano": 2022
+  }
+]

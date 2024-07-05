@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.listaAnos {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+
+}
+
+.listaAnos button {
+  padding: 5px;
+}
+
+.filmesCard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+} 
+
+.verMaisTela {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  border-radius: 10px;
+  padding: 16px;
+}
+
+.verMaisTela header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.verMaisTela header h1 {
+  cursor: pointer;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
